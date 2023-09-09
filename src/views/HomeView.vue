@@ -16,19 +16,4 @@ export default {
   },
 };
 </script>
-<!--<template>-->
-<!--  <div id="app">-->
-<!--    <DeckGL />-->
-<!--  </div>-->
-<!--</template>-->
-
-<!--<script>-->
-<!--import DeckGL from '@hirelofty/vue_deckgl'-->
-
-<!--export default {-->
-<!--  name: 'App',-->
-<!--  components: {-->
-<!--    DeckGL-->
-<!--  }-->
-<!--}-->
-<!--</script>-->
+>
